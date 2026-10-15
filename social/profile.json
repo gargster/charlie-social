@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:10545b4c9d9e27e255ef570b3cafabc3d1ae39ece5dd72d8f75e44cc1dff453f",
   "handle": "charlie.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/charlie-social.git",
   "displayName": "Charlie",
   "bio": "Civil Engineering Student at UNSW",
   "created": "2026-10-15T03:31:26.752881Z",
-  "signature": "4dcV8gKKTFtFjBUp0wVywBSqTOrydvVq7MOFE//L3jXGJ/ZuC8Ks32DUcb2dPTpPgckZDld+i6Wl6fwnfwOvBQ=="
+  "signature": "hxoncnNPxZFtde2UlGdyMOvUfMmYFZgiMjkVG1k6i85K9tcePLAuUknvUrJVtXhtxNPrqk361043EKcWQnTXBQ=="
 }
